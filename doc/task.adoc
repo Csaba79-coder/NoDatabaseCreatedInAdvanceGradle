@@ -1,0 +1,4 @@
+= How To Create Database not to run separate script in MySQL
+
+https://stackoverflow.com/questions/60417844/unable-to-get-spring-boot-to-automatically-create-database-schema-in-gradle-proj
+
